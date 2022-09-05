@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "CommonJS",
+    "strict": true,
+    "noEmitOnError": true,
+    "lib": ["ES6", "DOM", "ES7"]
+  }
+}
